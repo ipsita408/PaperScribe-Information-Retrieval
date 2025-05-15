@@ -3,7 +3,6 @@
 PaperScribe is an LLM-powered chatbot designed to assist with reading and understanding PDF documents. It utilizes Streamlit for the user interface, LangChain for text processing, and OpenAI for language model capabilities.
 
 
-
 ## About
 
 This application offers the following features:
